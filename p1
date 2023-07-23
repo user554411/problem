@@ -1,0 +1,7 @@
+def div(n,x,y):
+  if (n%x==0) and (n%y==0):
+    print("yas")
+  else :
+    print("no")
+
+print(div(7,4,11))
